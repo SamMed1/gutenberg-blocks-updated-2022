@@ -1,0 +1,11 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"name": "gutenberg-blocks-plugin-updated/text-block",
+	"title": "image-block",
+	"category": "text",
+	"icon": "smiley",
+	"textdomain": "image-block",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
